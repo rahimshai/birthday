@@ -20,7 +20,7 @@ export default function BirthdayCelebration() {
         }}
         className="relative mb-2"
       >
-        <h1 className="text-4xl sm:text-5xl font-bold text-center text-pink-600 mb-2">Happy Birthday!</h1>
+        <h1 className="text-4xl sm:text-5xl font-bold text-center text-pink-600 mb-2">Happy Birthday! Sania </h1>
         <div className="flex justify-center gap-3">
           <Cake className="w-8 h-8 text-pink-500" />
           <Sparkles className="w-8 h-8 text-yellow-500" />
@@ -87,6 +87,9 @@ export default function BirthdayCelebration() {
               transition={{ duration: 0.5 }}
             >
               <div className="text-center">
+              <p className="text-purple-700 mb-2">
+                Sania 
+                 </p>
                 <p className="text-purple-700 mb-2">
                 Just wanted to remind you—you're my favorite person. My days are better, smiles are wider, and life is sweeter because of you.
                 </p>
@@ -121,7 +124,7 @@ export default function BirthdayCelebration() {
           May every wish you make today come true. You deserve the world, and I’ll always be here to remind you of that.
           </p>
           <div className="flex justify-center items-center gap-2">
-            <p className="text-pink-600 font-medium">Let’s always stay like this... together, forever 🫶</p>
+            <p className="text-pink-600 font-medium">Let’s always stay like this... together, forever 🫶  ~coco</p>
           </div>
         </div>
       </motion.div>
